@@ -27,3 +27,24 @@ Agriculture is one of the proffesion that is being practiced since decades, but 
 Maximum family farming lack the knowledge to deal with this climate change and to overcome the issues caused in the plants from different insects and due to lack of nutrients which finally results in their production.
 
 Though some of the product which are available focuses on huge area basis and also with some limited features, with manuals and operating procedure only to be found in ENGLISH as the only language,making very hard for most the farmers in the world to understand easily.
+
+### Proposed Solution
+
+Making a Smart GreenHouse system with the latest technology and IBM cloud integration to make the farming condition favourable for healthy production through out the year.It can intelligently monitor and can take actions, eliminating the manual interaction. Many sensors are deployed to measure the environmental parameters and to take action accordingly.
+
+SMART-AGRI caintains the following features!
+
+* Real-time weather monitoring with WEATHER API.
+* Date when the crop was planted with CLOUDANT DB.
+* Best fertilizer to be used for better and healthy growth with IBM AUTO AI associated with ML model.
+* Crop selection based on the Soil, and current environmental conditions with IBM AUTO AI associated with ML model.
+* Rain fall prediction with IBM AUTO AI associated with ML model.
+* Crop Yield prediction of the particular crop in a particular region with the help of 10 years dataset and IBM AUTO AI associated with ML model.
+* Plant disease Prediction, either the farming plant or other plant slected through the app by the farmer and the way to cure them using IBM VISUAL RECOGNITION.
+* Farmer can choose the information he wants get notified in two desired times among the 7 parameters using TWILLO.
+* Getting the Sensors value from the greenhouse and to controll the appliances such as the Cooler,Heater,Leds,Roof,Water Pump etc through IBM IOT.
+* Historical data access on desired sensor value using CLOUDANT DB.
+* Storing the the Greenhouse plants image taken by the Greenhouse Camera in the OBJECT STORAGE to access for future use and to analyse it.
+* With more than 7+ Indian local languages along with english is deployed with IBM WATSON LANGUAGE TRANSLATION API to make it easy for the farmers to understand their farming conditions. 
+* Making a user friendly and easy to access UI with the help of NODE RED SERVICES on IBM further implementing it to the MIT-APP-Inventor to make an APP out of it.
+* Live feed coming to the farmers mobile directly from the Greenhouse for extra security and safety.
