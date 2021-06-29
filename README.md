@@ -86,5 +86,5 @@ SMART-AGRI caintains the following features!
 
 
 
-## Contributors:<a name="Authors"></a>
+## Contributor<a name="Authors"></a>
 * Ayan Ghosh- 3rd Year Under-Graduate Student in University Institute of Technology, Burdwan [*See Linkedin*](https://www.linkedin.com/in/ayan-ghosh-4743841a1/)
