@@ -53,7 +53,8 @@ SMART-AGRI caintains the following features!
 
 
 
-## Architecture<a name="Architechture"></a>
+<h2 align="center">Architechture</h1><a name="Architechture"></a>
+
 ![Architecture Image](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/project%20architecture.png)
 
 ## Long Description <a name="Long-Description"></a>
@@ -70,3 +71,6 @@ SMART-AGRI caintains the following features!
  * [Twlio](https://www.twilio.com/) API access- for SMS services 
  * [OpenWeather](https://openweathermap.org/api) API access- To retrieve weather informations (current weather, probability of precipitation and forecasting)
  * Python3- for programming the raspberry pi.
+
+## Project Roadmap <a name="Project-Roadmap"></a>
+![picture alt](https://github.com/)
