@@ -62,15 +62,15 @@ SMART-AGRI caintains the following features!
 
 ## Software/Access Requirements<a name="Software/Access-Requirments"></a> 
  * [IBM developer account](https://cloud.ibm.com/login)
- * IBM Visual recogniztion service 
- * IBM Watson Services(Auto AI, machine learning,IoT)
- * Node Red
- * IBM Language Translaor
- * IBM Cloudant DB
- * IBM OBject Storage
- * [Twlio](https://www.twilio.com/) API access- for SMS services 
- * [OpenWeather](https://openweathermap.org/api) API access- To retrieve weather informations (current weather, probability of precipitation and forecasting)
- * Python3- for programming the raspberry pi.
+ * [IBM Visual recogniztion service] 
+ * [IBM Watson Services(Auto AI, machine learning,IoT)](https://cloud.ibm.com/login)
+ * [Node Red](https://cloud.ibm.com/login)
+ * [IBM Language Translaor](https://cloud.ibm.com/login)
+ * [IBM Cloudant DB](https://cloud.ibm.com/login)
+ * [IBM OBject Storage](https://cloud.ibm.com/login)
+ * [Twlio](https://www.twilio.com/) API access- for SMS notifications.
+ * [OpenWeather](https://openweathermap.org/api) API access- To retrieve weather informations
+ * [Python3](https://www.python.org)- for programming the raspberry pi.
 
 ## Project Roadmap <a name="Project-Roadmap"></a>
-![picture alt](https://github.com/)
+![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Project-Roadmap.png)
