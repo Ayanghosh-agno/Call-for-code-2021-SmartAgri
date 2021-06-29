@@ -10,8 +10,8 @@ Smart-Agri is a smart farming evolution system integrated with both hardware and
 
 01. [Short Description](#Short-Description)
 02. [Demo Video](#Demo-Video)
-03. [Architechture](#Long-Description)
-04. [Long Description](#License)
+03. [Architechture](#Architechture)
+04. [Long Description](##Long-Description)
 05. [Software/Access Requirments](#Software/Access-Requirments)
 06. [Project Roadmap](#Project-Roadmap)
 07. [Circuit Setup](#Circuit-Setup)
@@ -48,3 +48,25 @@ SMART-AGRI caintains the following features!
 * With more than 7+ Indian local languages along with english is deployed with IBM WATSON LANGUAGE TRANSLATION API to make it easy for the farmers to understand their farming conditions. 
 * Making a user friendly and easy to access UI with the help of NODE RED SERVICES on IBM further implementing it to the MIT-APP-Inventor to make an APP out of it.
 * Live feed coming to the farmers mobile directly from the Greenhouse for extra security and safety.
+
+## Demo Video <a name="Demo-Video"></a>
+
+
+
+## Architecture<a name="Architechture"></a>
+![Architecture Image](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/project%20architecture.png)
+
+## Long Description <a name="Long-Description"></a>
+[Long Description Document Link](https://github.com)
+
+## Software/Access Requirements<a name="Software/Access-Requirments"></a> 
+ * [IBM developer account](https://cloud.ibm.com/login)
+ * IBM Visual recogniztion service 
+ * IBM Watson Services(Auto AI, machine learning,IoT)
+ * Node Red
+ * IBM Language Translaor
+ * IBM Cloudant DB
+ * IBM OBject Storage
+ * [Twlio](https://www.twilio.com/) API access- for SMS services 
+ * [OpenWeather](https://openweathermap.org/api) API access- To retrieve weather informations (current weather, probability of precipitation and forecasting)
+ * Python3- for programming the raspberry pi.
