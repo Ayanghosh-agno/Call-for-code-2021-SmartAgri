@@ -74,3 +74,17 @@ SMART-AGRI caintains the following features!
 
 ## Project Roadmap <a name="Project-Roadmap"></a>
 ![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Project-Roadmap.png)
+
+
+
+
+
+
+
+
+
+
+
+
+## Contributors:<a name="Authors"></a>
+* [Ayan Ghosh](https://github.com/Ayanghosh-agno)
