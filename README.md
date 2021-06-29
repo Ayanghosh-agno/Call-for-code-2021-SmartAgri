@@ -62,7 +62,7 @@ SMART-AGRI caintains the following features!
 
 ## Software/Access Requirements<a name="Software/Access-Requirments"></a> 
  * [IBM developer account](https://cloud.ibm.com/login)
- * [IBM Visual recogniztion service] 
+ * [IBM Visual recogniztion service](https://cloud.ibm.com/login)
  * [IBM Watson Services(Auto AI, machine learning,IoT)](https://cloud.ibm.com/login)
  * [Node Red](https://cloud.ibm.com/login)
  * [IBM Language Translaor](https://cloud.ibm.com/login)
