@@ -19,3 +19,11 @@ Smart-Agri is a smart farming evolution system integrated with both hardware and
 09. [Planned for Future](#Planned-for-Future)
 10. [Authors](#Authors)
 
+## Short Description <a name="Short-Description"></a>
+
+### What's the problem?
+
+Agriculture is one of the proffesion that is being practiced since decades, but by years passing, the pople are lossing faith from this becasue of the lack of productivity and lack of farming knowledge and due to this unpredictable weather because of this rapid climate change.As a result farmer's condition from different parts of the world are getting worse day by day making them to face huge losses due to which they are choosing suicide as their only option.
+Maximum family farming lack the knowledge to deal with this climate change and to overcome the issues caused in the plants from different insects and due to lack of nutrients which finally results in their production.
+
+Though some of the product which are available focuses on huge area basis and also with some limited features, with manuals and operating procedure only to be found in ENGLISH as the only language,making very hard for most the farmers in the world to understand easily.
