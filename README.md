@@ -63,7 +63,7 @@ SMART-AGRI cointains the following features:-
 
 
 ## Long Description <a name="Long-Description"></a>
-[Long Description Document Link](https://github.com)
+[Long Description Document Link](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Documentation/Smart%20Agri.pdf)
 
 
 
