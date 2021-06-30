@@ -14,8 +14,8 @@ Smart-Agri is a smart farming evolution system integrated with both hardware and
 02. [Demo Video](#Demo-Video)
 03. [Architechture](#Architechture)
 04. [Long Description](##Long-Description)
-05. [Software/Access Requirments](#Software/Access-Requirments)
-06. [Hardware Requirments](#Hardware-Requirments)
+05. [Hardware Requirments](#Hardware-Requirments)
+06. [Software/Access Requirments](#Software/Access-Requirments)
 07. [Project Roadmap](#Project-Roadmap)
 08. [Circuit Setup](#Circuit-Setup)
 09. [Development/Code Setup](#Development/Code-Setup)
@@ -52,7 +52,7 @@ SMART-AGRI cointains the following features:-
 * Making a user friendly and easy to access UI with the help of NODE RED SERVICES on IBM further implementing it to the MIT-APP-Inventor to make an APP out of it.
 * Live feed coming directly from the Greenhouse to the farmer for extra security and safety.
 
-## Demo Video <a name="Demo-Video"></a>
+<h2 align="center">Demo Video</h1><a name="Demo-Video"></a>
 
 
 
@@ -60,20 +60,10 @@ SMART-AGRI cointains the following features:-
 
 ![Architecture Image](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/project%20architecture.png)
 
+
 ## Long Description <a name="Long-Description"></a>
 [Long Description Document Link](https://github.com)
 
-## Software/Access Requirements<a name="Software/Access-Requirments"></a> 
- * [IBM developer account](https://cloud.ibm.com/login)
- * [IBM Visual recogniztion service](https://cloud.ibm.com/login)
- * [IBM Watson Services(Auto AI, machine learning,IoT)](https://cloud.ibm.com/login)
- * [Node Red](https://cloud.ibm.com/login)
- * [IBM Language Translaor](https://cloud.ibm.com/login)
- * [IBM Cloudant DB](https://cloud.ibm.com/login)
- * [IBM OBject Storage](https://cloud.ibm.com/login)
- * [Twlio](https://www.twilio.com/) API access- for SMS notifications.
- * [OpenWeather](https://openweathermap.org/api) API access- To retrieve weather informations
- * [Python3](https://www.python.org)- for programming the raspberry pi.
 
 
 ## Hardware Requirements <a name="Hardware-Requirments"> </a> 
@@ -104,6 +94,19 @@ SMART-AGRI cointains the following features:-
 ![Hardware](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Hardware.png)
 
 
+
+
+## Software/Access Requirements<a name="Software/Access-Requirments"></a> 
+ * [IBM developer account](https://cloud.ibm.com/login)
+ * [IBM Visual recogniztion service](https://cloud.ibm.com/login)
+ * [IBM Watson Services(Auto AI, machine learning,IoT)](https://cloud.ibm.com/login)
+ * [Node Red](https://cloud.ibm.com/login)
+ * [IBM Language Translaor](https://cloud.ibm.com/login)
+ * [IBM Cloudant DB](https://cloud.ibm.com/login)
+ * [IBM OBject Storage](https://cloud.ibm.com/login)
+ * [Twlio](https://www.twilio.com/) API access- for SMS notifications.
+ * [OpenWeather](https://openweathermap.org/api) API access- To retrieve weather informations
+ * [Python3](https://www.python.org)- for programming the raspberry pi.
 
 
 
