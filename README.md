@@ -34,7 +34,7 @@ Though some of the product which are available focuses on huge area basis and al
 
 Making a Smart GreenHouse system with the latest technology and IBM cloud integration to make the farming condition favourable for healthy production through out the year.It can intelligently monitor and can take actions, eliminating the manual interaction. Many sensors are deployed to measure the environmental parameters and to take action accordingly.
 
-SMART-AGRI caintains the following features!
+SMART-AGRI cointains the following features:-
 
 * Real-time weather monitoring with WEATHER API.
 * Date when the crop was planted with CLOUDANT DB.
@@ -49,14 +49,13 @@ SMART-AGRI caintains the following features!
 * Storing the the Greenhouse plants image taken by the Greenhouse Camera in the OBJECT STORAGE to access for future use and to analyse it.
 * With more than 7+ Indian local languages along with english is deployed with IBM WATSON LANGUAGE TRANSLATION API to make it easy for the farmers to understand their farming conditions. 
 * Making a user friendly and easy to access UI with the help of NODE RED SERVICES on IBM further implementing it to the MIT-APP-Inventor to make an APP out of it.
-* Live feed coming to the farmers mobile directly from the Greenhouse for extra security and safety.
+* Live feed coming directly from the Greenhouse to the farmer for extra security and safety.
 
 ## Demo Video <a name="Demo-Video"></a>
 
 
 
 <h2 align="center">Architechture</h1><a name="Architechture"></a>
-
 ![Architecture Image](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/project%20architecture.png)
 
 ## Long Description <a name="Long-Description"></a>
@@ -79,12 +78,17 @@ SMART-AGRI caintains the following features!
 
 
 
+## Circuit Setup <a name="Circuit-Setup"></a>
 
 
 
 
+## Development/Code-Setup <a name="Development/Code-Setup"></a>
 
 
+
+
+## Planned for Future <a name="Planned-for-Future"></a>
 
 
 
