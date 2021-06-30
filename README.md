@@ -44,11 +44,11 @@ SMART-AGRI cointains the following features:-
 * Rain fall prediction with IBM AUTO AI associated with ML model.
 * Crop Yield prediction of the particular crop in a particular region with the help of 10 years dataset and IBM AUTO AI associated with ML model.
 * Plant disease Prediction, either the farming plant or other plant slected through the app by the farmer and the way to cure them using IBM VISUAL RECOGNITION.
-* Farmer can choose the information he wants get notified in two desired times among the 7 parameters using TWILLO.
+* Farmer can choose the information he wants get notified in two desired times among the given 7 parameters using TWILLO.
 * Getting the Sensors value from the greenhouse and to controll the appliances such as the Cooler,Heater,Leds,Roof,Water Pump etc through IBM IOT.
 * Historical data access on desired sensor value using CLOUDANT DB.
 * Storing the the Greenhouse plants image taken by the Greenhouse Camera in the OBJECT STORAGE to access for future use and to analyse it.
-* With more than 7+ Indian local languages along with english is deployed with IBM WATSON LANGUAGE TRANSLATION API to make it easy for the farmers to understand their farming conditions. 
+* With more than 7+ Indian local languages along with english is deployed with IBM WATSON LANGUAGE TRANSLATION API to make it easy for the farmers to understand   their farming conditions. 
 * Making a user friendly and easy to access UI with the help of NODE RED SERVICES on IBM further implementing it to the MIT-APP-Inventor to make an APP out of it.
 * Live feed coming directly from the Greenhouse to the farmer for extra security and safety.
 
