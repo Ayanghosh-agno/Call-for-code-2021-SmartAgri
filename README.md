@@ -15,11 +15,12 @@ Smart-Agri is a smart farming evolution system integrated with both hardware and
 03. [Architechture](#Architechture)
 04. [Long Description](##Long-Description)
 05. [Software/Access Requirments](#Software/Access-Requirments)
-06. [Project Roadmap](#Project-Roadmap)
-07. [Circuit Setup](#Circuit-Setup)
-08. [Development/Code Setup](#Development/Code-Setup)
-09. [Planned for Future](#Planned-for-Future)
-10. [Authors](#Authors)
+06. [Hardware Requirments](#Hardware-Requirments)
+07. [Project Roadmap](#Project-Roadmap)
+08. [Circuit Setup](#Circuit-Setup)
+09. [Development/Code Setup](#Development/Code-Setup)
+10. [Planned for Future](#Planned-for-Future)
+11. [Authors](#Authors)
 
 ## Short Description <a name="Short-Description"></a>
 
@@ -56,6 +57,7 @@ SMART-AGRI cointains the following features:-
 
 
 <h2 align="center">Architechture</h1><a name="Architechture"></a>
+
 ![Architecture Image](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/project%20architecture.png)
 
 ## Long Description <a name="Long-Description"></a>
@@ -73,6 +75,11 @@ SMART-AGRI cointains the following features:-
  * [OpenWeather](https://openweathermap.org/api) API access- To retrieve weather informations
  * [Python3](https://www.python.org)- for programming the raspberry pi.
 
+
+## Hardware Requirements <a name="Hardware-Requirments"> </a> 
+*
+*
+*
 ## Project Roadmap <a name="Project-Roadmap"></a>
 ![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Project-Roadmap.png)
 
