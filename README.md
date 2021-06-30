@@ -77,9 +77,37 @@ SMART-AGRI cointains the following features:-
 
 
 ## Hardware Requirements <a name="Hardware-Requirments"> </a> 
-*
-*
-*
+
+* Voltage Sensor
+* Gas Sensor
+* Light Sensor
+* Current Sensor
+* Moisture Sensor
+* Ph-Sensor
+* Turbidity Sensor
+* Rain Sensor
+* Dh11 Sensor
+* LM2596 voltage regulator
+* Ultrasonic Sensor
+* DS18b20 Temperature Sensor
+* Limit Switch
+* Raspberry Pi model-3
+* Night Vision camera module
+* 8-channel relay module
+* Water Pump
+* Peltier plate with heat sink
+* Cooling Fan
+* Led Lights
+* Nirchrome Wire(Heater)
+* Servo
+
+![Hardware](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Hardware.png)
+
+
+
+
+
+
 ## Project Roadmap <a name="Project-Roadmap"></a>
 ![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Project-Roadmap.png)
 
