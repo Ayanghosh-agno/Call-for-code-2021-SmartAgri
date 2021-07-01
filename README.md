@@ -133,7 +133,7 @@ SMART-AGRI cointains the following features:-
 * Future rain prediction for saving more water and energy.
 * Helping the farmers to predict the current value of the crops.
 * Helping the farmers to calculate profit about any particular crop in the particular region.
-* To make a water and soil Ph controlling system.
+* To make a water and soil Ph neutralizing system.
 * The threshold for autonomous operation is pre-set, and can only be changed by programming experts, more flexivlity can be given to the farmers to set the threshold values.
 * Implementing the SMART-AGRI in a large scale basis and to take feedback from local farmers to do any chances or addition of any features if needed.
 
