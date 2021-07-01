@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/nLR310L8/greenhouse.png">
 <h1 align="center">SMART AGRI</h1>
 
-  >Lets begin a smart farming revolution cause agriculture is not a farming, it's a FEEDING !
+  >Lets begin a smart farming revolution because agriculture is not a farming, it's a FEEDING !
 
 ## What is SMART-AGRI?
 
