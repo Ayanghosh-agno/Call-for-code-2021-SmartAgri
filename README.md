@@ -137,4 +137,3 @@ SMART-AGRI contains the following features:-
 
 ## Contributor<a name="Authors"></a>
 * Ayan Ghosh- 3rd Year Under-Graduate Student in University Institute of Technology, Burdwan [*See Linkedin*](https://www.linkedin.com/in/ayan-ghosh-4743841a1/)
-![image](https://user-images.githubusercontent.com/70548601/124137799-a5232380-daa3-11eb-8d33-ce32122a9853.png)
