@@ -113,7 +113,7 @@ SMART-AGRI cointains the following features:-
 
 
 ## Project Roadmap <a name="Project-Roadmap"></a>
-![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Project-Roadmap.png)
+![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Roadmap.png)
 
 
 
@@ -130,7 +130,12 @@ SMART-AGRI cointains the following features:-
 
 ## Planned for Future <a name="Planned-for-Future"></a>
 
-
+* Future rain prediction for saving more water and energy.
+* Helping the farmers to predict the current value of the crops.
+* Helping the farmers to calculate profit about any particular crop in the particular region.
+* To make a water and soil Ph controlling system.
+* The threshold for autonomous operation is pre-set, and can only be changed by programming experts, more flexivlity can be given to the farmers to set the threshold values.
+* Implementing the SMART-AGRI in a large scale basis and to take feedback from local farmers to do any chances or addition of any features if needed.
 
 ## Contributor<a name="Authors"></a>
 * Ayan Ghosh- 3rd Year Under-Graduate Student in University Institute of Technology, Burdwan [*See Linkedin*](https://www.linkedin.com/in/ayan-ghosh-4743841a1/)
