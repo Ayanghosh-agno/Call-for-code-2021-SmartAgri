@@ -1,6 +1,6 @@
 
 <img src="https://i.postimg.cc/nLR310L8/greenhouse.png">
-<h1 align="center">SMART AGRI</h1>
+<h1 align="center">SMART AGRI <a name="project-name"></a> </h1>
 
   >Lets begin a smart farming revolution because agriculture is not a farming, it's a FEEDING !
 
@@ -9,28 +9,30 @@
 Smart-Agri is a smart farming evolution system integrated with both hardware and software part to make a smart green-house system to help to increase the productivity of the food production process as well as the profit of the farmers in this time of climate change. Basically our system is a complete package that a farmer needs for the best farming conditions inside the Green-house connecting with a water tank which is further equipped with several sensors and appliances to manage the water nutrients and temperature. We also tried to use the renewable resources as far as possible, like storing the rain water or opening the roof the greenhouse automatically to let the rain water shower on the plants whenever need saving both the water and electricity with accessing the solar power fitted in the greenhouse roof. Further it can also help the unskilled farmers with some important factors of farming like, Crop yield prediction, profit prediction, best crop that should be grown under that soil with that particular environmental conditions and also with fertilizers prediction. Each of these is designed under a single user friendly app with about 10+ Indian local understandable languages by the farmer.
 
 ## Contents 
+- [SMART AGRI](#project-name)
+  01. [Short Description](#Short-Description)
+      - [What's the problem?](#whats-the-problem)
+      - [Proposed Solution](#Proposed-Solution)
+  2. [Demo Video](#Demo-Video)
+  3. [Architecture](#Architecture)
+  4. [Long Description](#Long-Description)
+  5. [Hardware Requirements](#Hardware-Requirements)
+  6. [Software/Access Requirements](#Software/Access-Requirements)
+  7. [Project Roadmap](#Project-Roadmap)
+  8. [Circuit Setup](#Circuit-Setup)
+  9. [Development/Code Setup](#Development/Code-Setup)
+  10. [APP URL](#APP-URL)
+  11. [Planned for Future](#Planned-for-Future)
+  12. [Authors](#Authors)
 
-01. [Short Description](#Short-Description)
-02. [Demo Video](#Demo-Video)
-03. [Architecture](#Architecture)
-04. [Long Description](#Long-Description)
-05. [Hardware Requirements](#Hardware-Requirements)
-06. [Software/Access Requirements](#Software/Access-Requirements)
-07. [Project Roadmap](#Project-Roadmap)
-08. [Circuit Setup](#Circuit-Setup)
-09. [Development/Code Setup](#Development/Code-Setup)
-10. [APP URL](#APP-URL)
-11. [Planned for Future](#Planned-for-Future)
-12. [Authors](#Authors)
+<h2 align="center"> Short Description <a name="Short-Description"></a> </h2>
 
-## Short Description <a name="Short-Description"></a>
-
-### What's the problem?
+### What's the problem? <a name="whats-the-problem"></a>
 
 Agriculture is one of the professions that is been practiced for decades, but by years passing, the people are losing faith from this because of the lack of productivity and lack of farming knowledge and due to this unpredictable weather because of this rapid climate change. As a result farmer's condition from different parts of the world are getting worse day by day making them to face huge losses due to which they are choosing suicide as their only option. Maximum family farming lacks the knowledge to deal with this climate change and to overcome the issues caused in the plants from different insects and due to lack of nutrients which finally results in their production. 
 Though some of the products which are available focus on huge area basis and also with some limited features, with manuals and operating procedures only found in ENGLISH as the only language, making it very hard for most of the farmers in the world to understand easily.
 
-### Proposed Solution
+### Proposed Solution <a name="Proposed-Solution"></a>
 
 Making a Smart Greenhouse prototype with the latest technology and IBM cloud integration to make the farming condition favourable for healthy production through out the year. It can intelligently monitor and can take actions, eliminating the manual interaction. Many sensors are deployed to measure the environmental parameters and to take action accordingly.
 
