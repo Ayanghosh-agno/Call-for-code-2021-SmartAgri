@@ -2,8 +2,11 @@
 <img src="https://i.postimg.cc/nLR310L8/greenhouse.png">
 </div>
 <h1 align="center">SMART AGRI <a name="project-name"></a> </h1>
-
+<div align="center">
+  
   >Lets begin a smart farming revolution because agriculture is not a farming, it's a FEEDING !
+  
+</div>
 
 ## What is SMART-AGRI?
 
