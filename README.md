@@ -1,5 +1,6 @@
-
+<div align="center">
 <img src="https://i.postimg.cc/nLR310L8/greenhouse.png">
+</div>
 <h1 align="center">SMART AGRI <a name="project-name"></a> </h1>
 
   >Lets begin a smart farming revolution because agriculture is not a farming, it's a FEEDING !
@@ -16,6 +17,7 @@ Smart-Agri is a smart farming evolution system integrated with both hardware and
   2. [Demo Video](#Demo-Video)
   3. [Architecture](#Architecture)
   4. [Long Description](#Long-Description)
+      - [More about the UI](#More-about-the-UI)
   5. [Hardware Requirements](#Hardware-Requirements)
   6. [Software/Access Requirements](#Software/Access-Requirements)
   7. [Project Roadmap](#Project-Roadmap)
@@ -65,7 +67,25 @@ SMART-AGRI contains the following features:-
 ## Long Description <a name="Long-Description"></a>
 [Long Description Document Link](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Documentation/Smart%20Agri.pdf)
 
+### More about the UI <a name="More-about-the-UI"></a>
+*Sample of the APP UI:*
+<div align="center">
 
+<img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Home.png">
+  <br>
+    <br>
+   <img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/line.png">
+      <br>
+        <br>
+  <img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Field_Data.png">
+    <br>
+     <br>
+   <img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/line.png">
+      <br>
+        <br>     
+  <img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Restpart.png">
+
+</div>
 
 ## Hardware Requirements <a name="Hardware-Requirements"> </a> 
 
