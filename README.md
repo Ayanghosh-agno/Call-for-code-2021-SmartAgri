@@ -21,6 +21,7 @@ Smart-Agri is a smart farming evolution system integrated with both hardware and
   3. [Architecture](#Architecture)
   4. [Long Description](#Long-Description)
       - [More about the UI](#More-about-the-UI)
+      - [About the hardware setup](#hardware-part)
   5. [Hardware Requirements](#Hardware-Requirements)
   6. [Software/Access Requirements](#Software/Access-Requirements)
   7. [Project Roadmap](#Project-Roadmap)
@@ -87,7 +88,14 @@ SMART-AGRI contains the following features:-
       <br>
         <br>     
   <img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Restpart.png">
+      <br>
+     <br>
+   <img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/line.png">
+</div>
 
+### About the hardware setup <a name="hardware-part"></a>
+<div align="center">
+  <img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Hardware.jpg">
 </div>
 
 ## Hardware Requirements <a name="Hardware-Requirements"> </a> 
