@@ -146,12 +146,31 @@ SMART-AGRI contains the following features:-
 ## Project Roadmap <a name="Project-Roadmap"></a>
 ![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Roadmap.png)
 
+    
 
 
 ## Circuit Setup <a name="Circuit-Setup"></a>
  ![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/FULL-1.jpg)
+ 
+<div align="center">
+  
+  | (PART-1)--RaspberryPi(FROM)   |(PART-1)--MCP3008(TO)       |(PART-2)--Sensors(FROM)   |(PART-2)--MCP3008(TO)       |(PART-3)--RELAY(FROM)  |(PART-3)--Raspberry Pi(TO)|
+  | ------------- | ------------- | ------------- | ------------- |------------- |------------- |
+  | Pin 1 (3.3V) |Pin 16 (VDD)  | RAIN SENSOR |	PIN 1 | RELAY-8 | Pin 38 |
+  | Pin 1 (3.3V) |Pin 15 (VREF) | GAS SENSOR  |	Pin 2 | RELAY-7 |Pin 36 |
+  | Pin 6 (GND)  |Pin 14 (AGND) | MOISTURE SENSOR |	Pin 3 | RELAY-6 | Pin 37 |
+  | Pin 23 (SCLK)|Pin 13 (CLK)  | PH SENSOR|	Pin 4 | RELAY-5 | Pin 35 |
+  | Pin 21 (MISO)|Pin 12 (DOUT) | TURBIDITY SENSOR|	Pin 5 | RELAY-4 |Pin 33 |
+  | Pin 19 (MOSI)|Pin 11 (DIN)  | VOLTAGE SENSOR|	Pin 6 | RELAY-3 |Pin 32 |
+  | Pin 24 (CE0)|Pin 10 (CS/SHDN) | CURRENT SENSOR|	Pin 7 | RELAY-2 | Pin 15|
+  | Pin 6 (GND)|Pin 9 (DGND   | LIGHT SENSOR|	Pin 0 |  RELAY-1 | NONE |
 
-
+ </div>
+ 
+ 
+  
+  
+  
 ## Development/Code-Setup <a name="Development/Code-Setup"></a>
 
 
