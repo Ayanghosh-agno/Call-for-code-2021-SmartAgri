@@ -149,8 +149,7 @@ SMART-AGRI contains the following features:-
 
 
 ## Circuit Setup <a name="Circuit-Setup"></a>
-
-
+ ![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/FULL-1.jpg)
 
 
 ## Development/Code-Setup <a name="Development/Code-Setup"></a>
