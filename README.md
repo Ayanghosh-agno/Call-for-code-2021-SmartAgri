@@ -172,10 +172,44 @@ SMART-AGRI contains the following features:-
   
   
 ## Development/Code-Setup <a name="Development/Code-Setup"></a>
+  
+  ### Upload the python files to raspberry pi
+  
+* After uploading change the credentials.py file with your own credential of IBM IoT and Object Storage.
+
+* Enable the Interface of Raspberry pi for interfacing DS18B20 and Camera 
+
+```
+Raspberry Pi Configuration tool >  found in the Preferences menu > Click on the Interfaces tab > click on Enable for the 1-Wire interfac and Camera
+
+```
+* Install the following libraries
+
+```
+sudo pip3 install w1thermsensor
+
+
+wget https://github.com/doceme/py-spidev/archive/master.zip 
+unzip master.zip
+cd py-spidev-master
+sudo python setup.py install
+
+
+git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+cd Adafruit_Python_DHT
+sudo python3 setup.py install
+
+```
+* Now run all the python files
+
+### Import the Node-red flow
+
+* Import the SmartAgri.flow in node-red
+* Change the APIs with yours and you will be ready to use SMART-AGRI.
 
 
 ## APP URL <a name="APP-URL"></a>
-[URL](https://smartagri2021.eu-gb.mybluemix.net/ui/)
+[SMART-AGRI](https://smartagri2021.eu-gb.mybluemix.net/ui/)
 
 ## Planned for Future <a name="Planned-for-Future"></a>
 
