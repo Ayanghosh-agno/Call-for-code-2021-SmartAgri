@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://i.postimg.cc/nLR310L8/greenhouse.png">
+<img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Heading.jpg">
 </div>
-<h1 align="center">SMART AGRI <a name="project-name"></a> </h1>
 <div align="center">
   
   >Lets begin a smart farming revolution because agriculture is not a farming, it's a FEEDING !
