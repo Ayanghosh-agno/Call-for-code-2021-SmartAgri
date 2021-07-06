@@ -7,10 +7,10 @@ import RPi.GPIO as GPIO
 from boltiot import Sms
 # Import SMS class from boltiot library
 # Credentials required to send SMS
-SID = 'AC800f1654097b2f33688ef3b0475d310f' 
-AUTH_TOKEN = 'c0210132fffbb3d705349bf161641b77' 
-FROM_NUMBER = '+14043417425'
-TO_NUMBER = '+919800374139'
+SID = 'Enter SID from Twilo dashboard' 
+AUTH_TOKEN = 'Enter auth token from twilo dashboard' 
+FROM_NUMBER = 'enter twilo number here'
+TO_NUMBER = 'enter your mobile number here'
 sms = Sms(SID, AUTH_TOKEN, TO_NUMBER, FROM_NUMBER) # Create object to send SMS
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(15, GPIO.OUT)
