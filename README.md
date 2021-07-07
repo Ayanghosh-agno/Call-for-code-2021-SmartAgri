@@ -55,7 +55,7 @@ SMART-AGRI contains the following features:-
 * Getting the Sensors value from the greenhouse and to control the appliances such as the Cooler, Heater, LEDs, Roof, Water Pump etc through IBM IOT.
 * Historical data access on desired sensor value using CLOUDANT DB.
 * Storing the Greenhouse plants image taken by the Greenhouse Camera in the OBJECT STORAGE to access for future use and to analyse it.
-* With more than 7+ Indian local languages along with English is deployed with IBM WATSON LANGUAGE TRANSLATION API to make it easy for the farmers to understand   their farming conditions. 
+* With more than 7+ Indian local languages(more can be implemented) along with English is deployed with IBM WATSON LANGUAGE TRANSLATION API to make it easy for the farmers to understand   their farming conditions. 
 * Making a user friendly and easy to access UI with the help of NODE RED SERVICES on IBM further implementing it to the MIT-APP-Inventor to make an APP out of it.
 * Live feed coming directly from the Greenhouse to the farmer for extra security and safety.
 
@@ -176,6 +176,8 @@ SMART-AGRI contains the following features:-
   ### Upload the python files to raspberry pi
   
 * After uploading change the credentials.py file with your own credential of IBM IoT and Object Storage.
+* Chnage the Twillo credentials with your own credentials at notification.py
+* Change the IP in the APP for the live feed with your own Raspberry pi's IP. 
 
 * Enable the Interface of Raspberry pi for interfacing DS18B20 and Camera 
 
