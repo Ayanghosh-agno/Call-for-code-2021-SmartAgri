@@ -150,7 +150,7 @@ SMART-AGRI contains the following features:-
 
 
 ## Circuit Setup <a name="Circuit-Setup"></a>
- ![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/FULL-1.jpg)
+ ![picture alt](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/FINAL.jpg)
  
 <div align="center">
   
