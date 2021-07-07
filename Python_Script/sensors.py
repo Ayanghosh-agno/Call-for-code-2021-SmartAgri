@@ -55,7 +55,7 @@ while True:
     gas = adc.read( channel = 2)
     gas=((1023-gas)/1023)*100
     gas=round(gas,0)
-    print('Gas % :',15)
+    print('Gas % :',gas)
     
     temp=sensor.get_temperature()
     print('Water Temperature :',temp)
@@ -68,7 +68,7 @@ while True:
     ph=ph*3.3/1023/6
     ph=-5.07*ph+21.3
     ph=round(ph,1)
-    print('PH of the soil:',7.6)
+    print('PH of the soil:',ph)
     v = adc.read( channel = 5)
     v=(v/1024)*5.0
     if(v<2.5):
@@ -76,7 +76,7 @@ while True:
     else:
         ntu=-11220.4*(v*v)+5742.3*value-4352.9
     print('Purity of water:',round(ntu,2))
-    myData={'power':power,'Light':Light,'Rain':rain,'Moisture':moisture,'Gas':15,'Water_Temp':temp,'Water_Tank':Tank,'Temperature':temperature,'Humidity':humidity,'PH':7.6,'Water_clarity':ntu}
+    myData={'power':power,'Light':Light,'Rain':rain,'Moisture':moisture,'Gas':gas,'Water_Temp':temp,'Water_Tank':Tank,'Temperature':temperature,'Humidity':humidity,'PH':ph,'Water_clarity':ntu}
     client.publishEvent(eventId="status",msgFormat="json",data=myData,onPublish=None)
     time.sleep(5)
     
