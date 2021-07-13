@@ -1,3 +1,5 @@
+<a href="https://callforcode.org/"> <img src="https://pbs.twimg.com/profile_images/1374050118043893762/EtW5UgRn_400x400.jpg" height=80px> </a>
+
 <a name="project-name"></a>
 <div align="center">
   <img src="https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Heading.jpg">
@@ -224,3 +226,5 @@ sudo python3 setup.py install
 
 ## Contributor<a name="Authors"></a>
 * Ayan Ghosh- 3rd Year Under-Graduate Student in University Institute of Technology, Burdwan [*See Linkedin*](https://www.linkedin.com/in/ayan-ghosh-4743841a1/)
+
+<a href="https://callforcode.org/"> <img src="https://pbs.twimg.com/profile_images/1374050118043893762/EtW5UgRn_400x400.jpg" height=80px> </a>
