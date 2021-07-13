@@ -1,4 +1,3 @@
-<a href="https://callforcode.org/"> <img src="https://pbs.twimg.com/profile_images/1374050118043893762/EtW5UgRn_400x400.jpg" height=80px> </a>
 
 <a name="project-name"></a>
 <div align="center">
