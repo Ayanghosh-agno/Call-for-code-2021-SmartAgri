@@ -137,7 +137,7 @@ SMART-AGRI contains the following features:-
  * [IBM Language Translator](https://cloud.ibm.com/login)
  * [IBM Cloudant DB](https://cloud.ibm.com/login)
  * [IBM Object Storage](https://cloud.ibm.com/login)
- * [Twlio](https://www.twilio.com/) API access- for SMS notifications.
+ * [Twilio](https://www.twilio.com/) API access- for SMS notifications.
  * [OpenWeather](https://openweathermap.org/api) API access- To retrieve weather information
  * [Python3](https://www.python.org)- for programming the raspberry pi.
 
