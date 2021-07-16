@@ -62,7 +62,7 @@ SMART-AGRI contains the following features:-
 
 <h2 align="center">Demo Video</h1><a name="Demo-Video"></a>
 
-[![Demo Video](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Thumbnail.JPG)](https://www.youtube.com)
+[![Demo Video](https://github.com/Ayanghosh-agno/Call-for-code-2021-SmartAgri/blob/main/Image/Thumbnail.JPG)](https://youtu.be/UhoEdYc5WhE)
 
 <h2 align="center">Architecture</h1><a name="Architecture"></a>
 
